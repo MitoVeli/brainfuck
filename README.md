@@ -1,8 +1,4 @@
 # Brainfuck Library
-## Import
-Library can be imported by the following command
--   `go get github.com/MitoVeli/brainfuck/internal/service`
-
 ## Usage
 No CLI executable is available. Library itsef can be tried with the example "main.go" file in the directory
 
